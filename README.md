@@ -9,13 +9,13 @@
  ![img](img/ss9.png)
 
  # 2 . Kemudian membuat dokumen HTML dengan nama file lab3_list.html  pada Kerangka VS Code Dan Ini Hasil Codingan yang saya buat 
- [img](img/ss2.png)
+ ![img](img/ss2.png)
 
 # 3. Kemudian  menambahkan sebuah kode untuk membuat Ordered List seperti berikut. 
 ![img](img/ss3.png)
  
  # 4. Kemudian tambakan kode untuk membuat Unordered List, setelah deklarasi ordered list pada section unordered-list, seperti berikut Dan ini Hasil Dari Code Tersebut
- [img](img/ss4.png)
+ ![img](img/ss4.png)
 
  # 5 .Setelah itu buat file baru dengan nama lab3_tabel.html seperti berikut Dan Ini Hasil Codingan yang sudah kita input
 ![img](img/ss5.png)
