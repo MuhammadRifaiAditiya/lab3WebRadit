@@ -29,4 +29,11 @@
 # 7 .Kemudian membuat file baru dengan nama lab3_form.html seperti berikut.  
  ![img](img/ss8.png)
 
+ # Pertanyaan dan Tugas
+1. Buatlah form yang menampilkan dropdown menu dan listbox dengan multiple selection.
+## Jawab
+
+![img](img/ss10.png)
+ 
+ 
  ## TERIMKASIH SEMUA
